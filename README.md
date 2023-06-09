@@ -30,6 +30,7 @@ Operating Systems
 - [![Kali Linux](https://img.shields.io/badge/Kali%20Linux-191919?style=for-the-badge&logo=kali-linux&logoColor=557C94)](https://www.kali.org/)
 - [![Linux Mint](https://img.shields.io/badge/Linux%20Mint-191919?style=for-the-badge&logo=linux-mint&logoColor=87CF3E)](https://linuxmint.com/)
 - [![Debian](https://img.shields.io/badge/Debian-191919?style=for-the-badge&logo=debian&logoColor=A81D33)](https://www.debian.org/)
+- [![Arch](https://img.shields.io/badge/Arch-191919?style=for-the-badge&logo=arch-linux&logoColor=1793D1)](https://www.archlinux.org/)
 
 ## My GitHub's stats:
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Bagai35&theme=synthwave&show_icons=true&title_color=00FF000)  
