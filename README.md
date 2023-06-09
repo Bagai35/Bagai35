@@ -1,6 +1,6 @@
 # Hello, I'm Bagai35
 
-### About m:
+### About me:
 - Name: Bogdan Keplast
 - Age: 17 years
 - Birthday: 24th September
