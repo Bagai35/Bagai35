@@ -6,9 +6,7 @@
 - Birthday: 24th September
 - Country: Estonia
 - Languages: Russian, Estonian and English
-- [![Audiophile](https://img.shields.io/badge/Audiophile-191919?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAA2klEQVQ4T6WTwQ3CMBBF/0vS62z8B4jCYEmgWwAjUQKrASOkICsyA04cAYDFDsF8SlRUj3oGvO+Z2bkt9tzSw3+HHHv6eYxwKzRlggH6ABlnP8ANL+Zs3GAE0rD16kGmc6wvqMTCudh8kKbToCxFzPRFgDCq9sjkGS4cRdA/0t7LIX5jHHGOEB0AIow59It3W2+BywHt0uQ2G5a0F1AAAAAElFTkSuQmCC&logoColor=FFFFFF)](https://en.wikipedia.org/wiki/Audiophile)
-
-
+- Audiophile :3
 ### Skills
 Programming languages:
 - [![Python](https://img.shields.io/badge/python-191919?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/)
