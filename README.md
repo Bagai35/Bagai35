@@ -1,4 +1,4 @@
-# Hello, I'm [Bagai35]
+# Hello, I'm Bagai35
 
 ## Info about me
 ### Main info
