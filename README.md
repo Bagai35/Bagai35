@@ -1,6 +1,5 @@
 # Hello, I'm Bagai35
 
-## Info about me
 ### Main info
 - Name: Bogdan Keplast
 - Age: 17 years
@@ -21,8 +20,8 @@ Programming languages:
 IDE's:
 - [![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-191919?style=for-the-badge&logo=intellij-idea&logoColor=FF5722)](https://www.jetbrains.com/idea/)
 - [![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-191919?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)](https://code.visualstudio.com/)
-- [![PyCharm](https://img.shields.io/badge/PyCharm-191919?style=for-the-badge&logo=pycharm&logoColor=000000)](https://www.jetbrains.com/pycharm/)
 - [![NetBeans](https://img.shields.io/badge/NetBeans-191919?style=for-the-badge&logo=apache-netbeans-ide&logoColor=1B6AC6)](https://netbeans.apache.org/)
+- [![PyCharm](https://img.shields.io/badge/PyCharm-191919?style=for-the-badge&logo=pycharm&logoColor=000000)](https://www.jetbrains.com/pycharm/)
 - [![WebStorm](https://img.shields.io/badge/WebStorm-191919?style=for-the-badge&logo=webstorm&logoColor=000000)](https://www.jetbrains.com/webstorm/)
 
 Operating Systems
