@@ -1,13 +1,13 @@
 # Hello, I'm Bagai35
 
-### Main info
+### About m:
 - Name: Bogdan Keplast
 - Age: 17 years
 - Birthday: 24th September
 - Country: Estonia
 - Languages: Russian, Estonian and English
 - Audiophile :3
-### Skills
+### Skills:
 Programming languages:
 - [![Python](https://img.shields.io/badge/python-191919?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/)
 - [![Java](https://img.shields.io/static/v1?label=&message=Java&color=191919&style=for-the-badge&logo=Oracle&logoColor=FF6600)](https://www.java.com/en/)
