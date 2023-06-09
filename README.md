@@ -6,6 +6,7 @@
 - Birthday: 24th September
 - Country: Estonia
 - Languages: Russian, Estonian and English
+- [![Audiophile](https://img.shields.io/badge/Audiophile-191919?style=for-the-badge&logo=headphones&logoColor=FFD700)](https://en.wikipedia.org/wiki/Audiophile)
 
 ### Skills
 Programming languages:
@@ -15,7 +16,6 @@ Programming languages:
 - [![CSS](https://img.shields.io/badge/CSS-191919?style=for-the-badge&logo=css3&logoColor=1572B6)](https://www.w3.org/Style/CSS/)
 - [![JavaScript](https://img.shields.io/badge/JavaScript-191919?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 - [![Duckyscript](https://img.shields.io/badge/Duckyscript-191919?style=for-the-badge&logo=duckduckgo&logoColor=DE5833)](https://docs.hak5.org/hc/en-us/articles/360010555153-Ducky-Script-the-USB-Rubber-Ducky-language)
-- [![SSH](https://img.shields.io/badge/SSH-191919?style=for-the-badge&logo=ssh&logoColor=FFFFFF)](https://en.wikipedia.org/wiki/Secure_Shell)
 
 IDE's:
 - [![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-191919?style=for-the-badge&logo=intellij-idea&logoColor=FF5722)](https://www.jetbrains.com/idea/)
