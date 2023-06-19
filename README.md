@@ -14,7 +14,7 @@ Programming languages:
 - [![HTML](https://img.shields.io/badge/HTML-191919?style=for-the-badge&logo=html5&logoColor=E34F26)](https://www.w3.org/html/)
 - [![CSS](https://img.shields.io/badge/CSS-191919?style=for-the-badge&logo=css3&logoColor=1572B6)](https://www.w3.org/Style/CSS/)
 - [![JavaScript](https://img.shields.io/badge/JavaScript-191919?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-- [![Duckyscript](https://img.shields.io/badge/Duckyscript-191919?style=for-the-badge&logo=duckduckgo&logoColor=DE5833)](https://docs.hak5.org/hc/en-us/articles/360010555153-Ducky-Script-the-USB-Rubber-Ducky-language)
+- [![Duckyscript](https://shop.hak5.org/pages/duckyscript-3-0)
 
 IDE's:
 - [![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-191919?style=for-the-badge&logo=intellij-idea&logoColor=FF5722)](https://www.jetbrains.com/idea/)
