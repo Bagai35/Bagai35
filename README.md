@@ -1,40 +1,90 @@
-# Hello, I'm Bagai35
+<div align="center">
+  <h1>Hi there, I'm Bogdan 
+    <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32">
+  </h1>
 
-### About me:
-- Name: Bogdan Keplast
-- Age: 17 years
-- Birthday: 24th September
-- Country: Estonia
-- Languages: Russian, Estonian and English
-- Audiophile :3
-### Skills:
-Programming languages:
-- [![Python](https://img.shields.io/badge/python-191919?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/)
-- [![Java](https://img.shields.io/static/v1?label=&message=Java&color=191919&style=for-the-badge&logo=Oracle&logoColor=FF6600)](https://www.java.com/en/)
-- [![HTML](https://img.shields.io/badge/HTML-191919?style=for-the-badge&logo=html5&logoColor=E34F26)](https://www.w3.org/html/)
-- [![CSS](https://img.shields.io/badge/CSS-191919?style=for-the-badge&logo=css3&logoColor=1572B6)](https://www.w3.org/Style/CSS/)
-- [![JavaScript](https://img.shields.io/badge/JavaScript-191919?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-- [![Duckyscript](https://img.shields.io/badge/Duckyscript-191919?style=for-the-badge&logo=duckduckgo&logoColor=DE5833)](https://shop.hak5.org/pages/duckyscript-3-0)
+  <h3>Computer science student, software developer from Estonia🇪🇪</h3>
+</div>
 
-IDE's:
-- [![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-191919?style=for-the-badge&logo=intellij-idea&logoColor=FF5722)](https://www.jetbrains.com/idea/)
-- [![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-191919?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)](https://code.visualstudio.com/)
-- [![NetBeans](https://img.shields.io/badge/NetBeans-191919?style=for-the-badge&logo=apache-netbeans-ide&logoColor=1B6AC6)](https://netbeans.apache.org/)
-- [![PyCharm](https://img.shields.io/badge/PyCharm-191919?style=for-the-badge&logo=pycharm&logoColor=000000)](https://www.jetbrains.com/pycharm/)
-- [![WebStorm](https://img.shields.io/badge/WebStorm-191919?style=for-the-badge&logo=webstorm&logoColor=000000)](https://www.jetbrains.com/webstorm/)
+<div align="center">
+  <h2 style="padding: 5px;">About me:</h2>
 
-Operating Systems
-- [![Windows](https://img.shields.io/badge/Windows-191919?style=for-the-badge&logo=windows&logoColor=0078D6)](https://www.microsoft.com/windows/)
-- [![macOS](https://img.shields.io/badge/macOS-191919?style=for-the-badge&logo=apple&logoColor=000000)](https://www.apple.com/macos/)
-- [![Ubuntu](https://img.shields.io/badge/Ubuntu-191919?style=for-the-badge&logo=ubuntu&logoColor=E95420)](https://ubuntu.com/)
-- [![Kali Linux](https://img.shields.io/badge/Kali%20Linux-191919?style=for-the-badge&logo=kali-linux&logoColor=557C94)](https://www.kali.org/)
-- [![Linux Mint](https://img.shields.io/badge/Linux%20Mint-191919?style=for-the-badge&logo=linux-mint&logoColor=87CF3E)](https://linuxmint.com/)
-- [![Debian](https://img.shields.io/badge/Debian-191919?style=for-the-badge&logo=debian&logoColor=A81D33)](https://www.debian.org/)
-- [![Manjaro](https://img.shields.io/badge/Manjaro-191919?style=for-the-badge&logo=manjaro&logoColor=35BF5C)](https://manjaro.org/)
-- [![Arch](https://img.shields.io/badge/Arch-191919?style=for-the-badge&logo=arch-linux&logoColor=1793D1)](https://www.archlinux.org/)
+  - Name: Bogdan Keplast
+  - Age: 18 years
+  - Birthday: 24th September
+  - Languages: Russian, Estonian and English
+  - Audiophile :3
+</div>
 
-## My GitHub's stats:
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Bagai35&theme=synthwave&show_icons=true&title_color=00FF000)  
+<div align="center">
+  <h2 style="padding: 5px;">Programming languages:</h2>
 
-# You Are Visitor Number:
-![Bagai35](https://moe-counter.glitch.me/get/@Bagai35?theme=gelbooru)
+  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+</div>
+
+<div align="center">
+  <h2 style="padding: 5px;">IDE's:</h2>
+
+  ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+  ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
+  ![WebStorm](https://img.shields.io/badge/webstorm-143?style=for-the-badge&logo=webstorm&logoColor=white&color=black)
+  ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
+  ![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2b%2b&logoColor=black)
+</div>
+
+<div align="center">
+  <h2 style="padding: 5px;">Operating Systems:</h2>
+
+  ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+  ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
+  ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+  ![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
+  ![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
+  ![Tails](https://img.shields.io/badge/Tails%20-56347C?&style=for-the-badge&logo=tails&logoColor=white)
+</div>
+
+<div align="center">
+  <h3 style="padding: 5px;">The operating systems I work on.</h3>
+
+  ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
+  ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+</div>
+
+<div align="center">
+    <h1 style="padding: 5px;">My social media:</h1>
+
+  <a href="https://www.linkedin.com/in/bogdan-keplast-61376a286/" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://www.facebook.com/profile.php?id=100011724458672" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook">
+  </a>
+  <a href="https://telegram.me/bagai35" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
+  </a>
+    <a href="https://m.me/your-messenger-username" target="_blank">
+    <img src="https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white" alt="Messenger">
+  </a>
+
+
+
+
+
+
+</div>
+
+<div align="center">
+  <h2>My GitHub's stats:</h2>
+
+  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Bagai35&theme=synthwave&show_icons=true&title_color=00FF000)  
+</div>
+
+<div align="center">
+  <h1>You Are Visitor Number:</h1>
+
+  ![Bagai35](https://moe-counter.glitch.me/get/@Bagai35?theme=gelbooru)
+</div>
