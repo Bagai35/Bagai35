@@ -30,8 +30,10 @@
 
   ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
   ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
-  ![WebStorm](https://img.shields.io/badge/webstorm-143?style=for-the-badge&logo=webstorm&logoColor=white&color=black)
+  ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
   ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
+  ![NetBeans IDE](https://img.shields.io/badge/NetBeans%20IDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
+  ![Sublime Text](https://img.shields.io/badge/Sublime%20Text-FF9800.svg?style=for-the-badge&logo=sublime-text&logoColor=white)
   ![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2b%2b&logoColor=black)
 </div>
 
@@ -54,10 +56,13 @@
 </div>
 
 <div align="center">
-    <h1 style="padding: 5px;">My social media:</h1>
+  <h1 style="padding: 5px;">My social media:</h1>
 
   <a href="https://www.linkedin.com/in/bogdan-keplast-61376a286/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://www.instagram.com/your-instagram-username/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
   <a href="https://www.facebook.com/profile.php?id=100011724458672" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook">
@@ -65,16 +70,17 @@
   <a href="https://telegram.me/bagai35" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
   </a>
-    <a href="https://m.me/your-messenger-username" target="_blank">
+  <a href="https://m.me/your-messenger-username" target="_blank">
     <img src="https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white" alt="Messenger">
+  </a>
+  <a href="https://vk.com/bagai35" target="_blank">
+    <img src="https://img.shields.io/badge/VKontakte-4680C2?style=for-the-badge&logo=vk&logoColor=white" alt="VKontakte">
   </a>
 
 
-
-
-
-
 </div>
+
+
 
 <div align="center">
   <h2>My GitHub's stats:</h2>
