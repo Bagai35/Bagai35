@@ -61,7 +61,7 @@
   <a href="https://www.linkedin.com/in/bogdan-keplast/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://www.instagram.com/your-instagram-username/" target="_blank">
+  <a href="https://www.instagram.com/bagai_35/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
   <a href="https://www.facebook.com/profile.php?id=100011724458672" target="_blank">
@@ -69,9 +69,6 @@
   </a>
   <a href="https://telegram.me/bagai35" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
-  </a>
-  <a href="https://m.me/your-messenger-username" target="_blank">
-    <img src="https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white" alt="Messenger">
   </a>
   <a href="https://vk.com/bagai35" target="_blank">
     <img src="https://img.shields.io/badge/VKontakte-4680C2?style=for-the-badge&logo=vk&logoColor=white" alt="VKontakte">
