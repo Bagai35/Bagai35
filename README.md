@@ -8,11 +8,11 @@
 <div align="center">
   <h2 style="padding: 5px;">About me:</h2>
 
-  - Name: Bogdan Keplast
-  - Age: 18 years
-  - Birthday: 24th September
-  - Languages: Russian, Estonian and English
-  - Audiophile :3
+   Name: Bogdan Keplast
+   Age: 18 years
+   Birthday: 24th September
+   Languages: Russian, Estonian and English
+   Audiophile :3
 </div>
 
 <div align="center">
