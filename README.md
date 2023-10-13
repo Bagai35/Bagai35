@@ -77,11 +77,11 @@
 <div align="center">
   <h2>My GitHub's stats:</h2>
 
-  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Bagai35&theme=synthwave&show_icons=true&title_color=00FF000)  
+  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Bagai35&theme=tokyonight&show_icons=true&title_color=gruvbox)  
 
 </div>
 <div align="center" width="100px">
   <h1>You Are Visitor Number:</h1>
 
-  ![Bagai35](https://moe-counter.glitch.me/get/@Bagai35?theme=gelbooru)
+  ![Bagai35](https://moe-counter.glitch.me/get/@Bagai35?theme=rule34)
 </div>
