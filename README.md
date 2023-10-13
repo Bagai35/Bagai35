@@ -77,6 +77,8 @@
 <div align="center">
   <h2>My GitHub's stats:</h2>
 
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bagai35&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
   ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Bagai35&theme=tokyonight&show_icons=true&title_color=gruvbox)  
 
 </div>
