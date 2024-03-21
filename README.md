@@ -73,9 +73,7 @@
   <a href="https://telegram.me/bagai35" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
   </a>
-  <a href="https://vk.com/bagai35" target="_blank">
-    <img src="https://img.shields.io/badge/VKontakte-4680C2?style=for-the-badge&logo=vk&logoColor=white" alt="VKontakte">
-  </a>
+  
 </div>
 <div align="center">
   <h2>My GitHub's stats:</h2>
