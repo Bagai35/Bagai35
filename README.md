@@ -2,7 +2,7 @@
   <h1>Hi, I'm Bogdan 👋  
   </h1>
 
-  <h3>Computer science student, software developer from Estonia🇪🇪</h3>
+  <h3>Computer science and software developer from Estonia🇪🇪</h3>
 </div>
 
 <div align="center">
