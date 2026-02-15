@@ -83,5 +83,5 @@
 <div align="center" width="100px">
   <h1>You Are Visitor Number:</h1>
 
-  [![Bagai35](https://count.getloli.com/@Bagai35?name=Bagai35&theme=moebooru&padding=7&offset=5&align=center&scale=1&pixelated=1&darkmode=0)
+  ![Bagai35](https://count.getloli.com/@Bagai35?name=Bagai35&theme=moebooru&padding=7&offset=5&align=center&scale=1&pixelated=1&darkmode=0)
 </div>
