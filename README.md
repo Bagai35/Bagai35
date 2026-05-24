@@ -9,7 +9,7 @@
   <h2 style="padding: 5px;">About me:</h2>
 
    Name: Bogdan Keplast <br>
-   Age: 19 years<br>
+   Age: 21 years<br>
    Birthday: 24th September<br>
    Languages: Russian, Estonian and English<br>
    Audiophile :3
