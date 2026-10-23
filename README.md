@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:241338,50:8A2BE2,100:FF4DCE&descAlignY=60&descSize=15" width="100%" alt="BAGAI35 Synthwave Banner">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:241338,50:8A2BE2,100:FF4DCE&descAlignY=60&descSize=15" width="100%" alt="BAGAI35 Synthwave Banner">
 
 # Hi, I'm Bogdan 👋
 
@@ -115,6 +115,6 @@ My projects cover software development, web technologies, and personal experimen
 
 **Stay curious. Keep building. 🌌**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF4DCE,50:662D91,100:241338&height=200&section=footer" width="100%" alt="Synthwave footer">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF4DCE,50:662D91,100:241338&height=150&section=footer" width="100%" alt="Synthwave footer">
 
 </div>
