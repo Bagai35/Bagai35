@@ -1,87 +1,120 @@
 <div align="center">
-  <h1>Hi, I'm Bogdan 👋  
-  </h1>
 
-  <h3>Computer science and software developer from Estonia🇪🇪</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:241338,50:8A2BE2,100:FF4DCE&descAlignY=60&descSize=15" width="100%" alt="BAGAI35 Synthwave Banner">
+
+# Hi, I'm Bogdan 👋
+
+### Software Developer · Digital Creator · Tech Enthusiast
+
+**Computer science and software developer from Estonia**
+
+> *Building things with code. Exploring the world of design.*
+
+<br>
+
+<a href="https://github.com/Bagai35"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FF4DCE" alt="GitHub"></a>
+<a href="https://www.linkedin.com/in/bogdan-keplast/"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00D9FF" alt="LinkedIn"></a>
+<a href="https://telegram.me/bagai35"><img src="https://img.shields.io/badge/Telegram-0D1117?style=for-the-badge&logo=telegram&logoColor=00D9FF" alt="Telegram"></a>
+
 </div>
 
+---
+
+## 👨‍💻 About Me
+
+Hey! I'm **Bogdan Keplast**, also known as **Bagai35**.
+
+I'm a developer from Estonia who enjoys programming, exploring new technologies, and creating things that combine functionality with good design.
+
+- 💻 Software development and web technologies
+- 🎨 UI/UX design and digital creativity
+- 🔧 Hardware, networking, and technology
+- 🌍 Languages: Russian, Estonian, and English
+- 🎧 Audiophile
+
+> *Curiosity drives me. Code brings ideas to life.*
+
+---
+
+## ⚡ Tech Stack
 <div align="center">
-  <h2 style="padding: 5px;">About me:</h2>
 
-   Name: Bogdan Keplast <br>
-   Age: 21 years<br>
-   Birthday: 24th September<br>
-   Languages: Russian, Estonian and English<br>
-   Audiophile :3
-</div>
-
-<div align="center">
-  <h2 style="padding: 5px;">Programming languages:</h2>
-
-  [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/)
-  [![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com/en/download/help/whatis_java.html)
-  [![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)](https://www.arduino.cc/)
-  [![PHP](https://img.shields.io/badge/php-%234F5D95.svg?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
-  [![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://www.javascript.com)
-  [![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)](https://reactjs.org/)
-  [![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://html5.org)
-  [![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3.org/Style/CSS/Overview.en.html)
-</div>
-
-<div align="center">
-  <h2 style="padding: 5px;">IDE's:</h2>
-
-  [![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com)
-  [![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)](https://www.jetbrains.com/pycharm/)
-  [![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)](https://www.jetbrains.com/idea/)
-  [![Arduino IDE](https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white)](https://www.arduino.cc/en/software)
-  [![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)](https://www.eclipse.org)
-  [![NetBeans IDE](https://img.shields.io/badge/NetBeans%20IDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)](https://netbeans.apache.org)
-  [![Sublime Text](https://img.shields.io/badge/Sublime%20Text-FF9800.svg?style=for-the-badge&logo=sublime-text&logoColor=white)](https://www.sublimetext.com)
-  [![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2b%2b&logoColor=black)](https://notepad-plus-plus.org)
-</div>
-
-<div align="center">
-  <h2 style="padding: 5px;">Operating Systems:</h2>
-
-  [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/en-us/windows)
-  [![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)](https://www.apple.com/macos/)
-  [![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)](https://www.kali.org)
-  [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://ubuntu.com)
-  [![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)](https://www.debian.org)
-  [![Tails](https://img.shields.io/badge/Tails%20-56347C?&style=for-the-badge&logo=tails&logoColor=white)](https://tails.net)
-</div>
-
-<div align="center">
-  <h3 style="padding: 5px;">The operating systems I work on.</h3>
-
-  [![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)](https://www.apple.com/macos/)
-  [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/en-us/windows)
-  [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://ubuntu.com)
-</div>
-
-<div align="center">
-  <h1 style="padding: 5px;">My social media:</h1>
-
-  <a href="https://www.linkedin.com/in/bogdan-keplast/" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://www.instagram.com/bagai_35/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-  </a>
-  <a href="https://www.facebook.com/profile.php?id=100011724458672" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook">
-  </a>
-  <a href="https://telegram.me/bagai35" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
-  </a>
-  
+### Programming Languages
 </div>
 <div align="center">
 
-</div>
-<div align="center" width="100px">
-  <h1>You Are Visitor Number:</h1>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,java,js,php,arduino&theme=dark" alt="Python, Java, JavaScript, PHP, Arduino">
+</p>
 
-  ![Bagai35](https://count.getloli.com/@Bagai35?name=Bagai35&theme=moebooru&padding=7&offset=5&align=center&scale=1&pixelated=1&darkmode=0)
+</div>
+<div align="center">
+
+---
+
+### Web Development
+</div>
+<div align="center">
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,react&theme=dark" alt="HTML, CSS, React">
+</p>
+
+</div>
+<div align="center">
+
+---
+
+### Development Tools
+</div>
+<div align="center">
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,pycharm,idea,eclipse,sublime,visualstudio&theme=dark" alt="Development tools">
+</p>
+
+</div>
+<div align="center">
+
+---
+### Operating Systems
+</div>
+<div align="center">
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=windows,apple,kali,ubuntu,debian&theme=dark" alt="Operating systems">
+</p>
+</div>
+
+---
+
+## 🚀 Featured Projects
+<div align="center">
+
+<a href="https://github.com/Bagai35?tab=repositories">
+  <img src="https://img.shields.io/badge/Explore_My_Repositories-241338?style=for-the-badge&logo=github&logoColor=FF4DCE" alt="Explore repositories">
+</a>
+
+</div>
+
+My projects cover software development, web technologies, and personal experiments.
+
+**More projects coming soon.** This section will grow as I build and publish new things.
+
+---
+
+<div align="center">
+
+## 👾 You Are Visitor Number
+
+<img src="https://count.getloli.com/@Bagai35?name=Bagai35&theme=moebooru&padding=7&offset=5&align=center&scale=1&pixelated=1&darkmode=0" alt="Bagai35 pixel art visitor counter">
+
+<br>
+
+*Thanks for visiting my corner of the internet.*
+
+**Stay curious. Keep building. 🌌**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF4DCE,50:662D91,100:241338&height=200&section=footer" width="100%" alt="Synthwave footer">
+
 </div>
